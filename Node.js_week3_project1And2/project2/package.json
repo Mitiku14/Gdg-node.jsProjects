@@ -1,0 +1,12 @@
+{
+  "name": "dependency-managment-and-script-automation",
+  "version": "1.0.0",
+  "description": "A Node.js project using lodash to find the maximu and minimum values from an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "calculate": "node index.js"
+  },
+  "author": "Mitiku Tadesse",
+  "license": "ISC"
+}

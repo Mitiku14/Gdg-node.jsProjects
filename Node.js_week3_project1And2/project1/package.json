@@ -1,0 +1,17 @@
+{
+  "name": "lodash-demo-project2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "calculate": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mitiku Tadesse",
+  "license": "ISC",
+  "description": "A Node.js project using lodash to find max/min values from an array",
+  "repository": {
+    "type": "git",
+    "url": "index.js"
+  }
+}
